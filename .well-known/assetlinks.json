@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.digityman.setlist",
+        "sha256_cert_fingerprints": ["A4:93:D8:03:C9:BD:96:CE:D7:20:02:CD:2A:5C:96:CA:9C:E0:F3:4F:EF:2E:84:AA:49:23:BB:E7:C8:B8:D9:4B"]
+      }
+    }]
